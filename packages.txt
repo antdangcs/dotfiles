@@ -12,3 +12,8 @@ tmux
 neovim
 xclip
 fzf
+emacs
+ripgrep
+fd
+github-cli
+lazygit
