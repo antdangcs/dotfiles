@@ -17,3 +17,10 @@ ripgrep
 fd
 github-cli
 lazygit
+thunar
+gvfs
+file-roller
+thunar-archive-plugin
+thunar-media-tags-plugin
+thunar-volman
+tumbler
