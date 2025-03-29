@@ -24,3 +24,5 @@ thunar-archive-plugin
 thunar-media-tags-plugin
 thunar-volman
 tumbler
+fcitx5-im
+fcitx5-bamboo
