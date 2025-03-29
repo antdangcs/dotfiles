@@ -26,3 +26,4 @@ thunar-volman
 tumbler
 fcitx5-im
 fcitx5-bamboo
+fcitx5-mozc
